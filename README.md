@@ -39,5 +39,5 @@ Example:
 logger.info("Adding student");
 logger.info("Fetching all students");
 
-Author
-Sumeet Kumar Prasad
+
+
